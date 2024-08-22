@@ -1,6 +1,6 @@
 # Estrutura de Dados
 
-Bem-vindo ao repositório de **exercícios** e **conteúdos** realizados durantes as aulas da disciplina de **Estrutura de Dados** do curso de **Desenvolvimento de Software Multiplataforma** da Fatec Jaú. Este repositório contém uma coleção de exercícios e materiais feitos em JavaScript que cobrem os principais conceitos e técnicas da disciplina.
+Bem-vindo ao repositório de **exercícios** e **conteúdos** realizados durantes as aulas da disciplina de **Estrutura de Dados** do curso de **Desenvolvimento de Software Multiplataforma** da Fatec Jaú. Este repositório contém uma coleção de exercícios e algoritmos feitos em JavaScript que cobrem os principais conceitos e técnicas da disciplina.
 
 ## Instruções de Uso
 
