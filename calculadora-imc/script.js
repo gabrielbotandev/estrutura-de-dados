@@ -6,9 +6,11 @@ var altura = 0
 peso = parseFloat(prompt("Digite seu peso:"))
 altura = parseFloat(prompt("Digite sua altura:"))
 
+// calcular imc
+
 imc = peso/(altura * altura)
 
-alert("Seu imc é de " + imc.toFixed(2))
+// classificar imc
 
 if (imc <= 18.5){
     alert("Você está abaixo do peso ideal");
@@ -23,3 +25,7 @@ if (imc <= 18.5){
 }else if(imc > 40){
     alert ("Você está com obesidade grau III");
 }
+
+// resultado numérico
+
+alert(`Seu IMC é ${imc.toFixed(2)}`)
