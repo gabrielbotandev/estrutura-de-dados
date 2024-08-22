@@ -10,11 +10,11 @@ Bem-vindo ao repositório de **exercícios** e **conteúdos** realizados durante
 
 2. **Selecione o exercício desejado na pasta**:
    ```bash
-   estrutura-de-dados/calculadoraIMC
+   estrutura-de-dados/array-media-altura
 
 3. **Abra o arquivo index.html com seu navegador**:
    ```bash
-   estrutura-de-dados/calculadoraIMC/index.html
+   estrutura-de-dados/array-media-altura/index.html
 
 # Contribuições
 
