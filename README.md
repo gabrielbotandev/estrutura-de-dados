@@ -16,8 +16,14 @@ Bem-vindo ao repositório de **exercícios** e **conteúdos** realizados durante
    ```bash
    estrutura-de-dados/array-media-altura/index.html
 
-# Contribuições
+# ✨ Contribuições
 
 Se você encontrar algum erro ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request. Suas contribuições são bem-vindas!
+
+## 📫 Contato
+Se você quiser entrar em contato comigo, você pode me encontrar através das seguintes plataformas:
+
+<a href="https://www.linkedin.com/in/gabrielficciobotan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabrielficciobotan"/></a>
+<a href="https://www.instagram.com/botan.gabriel/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="botan.gabriel" /></a>
 
 
