@@ -10,11 +10,11 @@ Bem-vindo ao repositório de **conteúdos** e **algoritmos** realizados durantes
 
 2. **Selecione o exercício desejado na pasta**:
    ```bash
-   estrutura-de-dados/bubble-sort
+   estrutura-de-dados/array-average
 
 3. **Abra o arquivo index.html com seu navegador ou execute o .js no console**:
    ```bash
-   estrutura-de-dados/array-media-altura/index.html
+   estrutura-de-dados/array-average/index.html
 
 # ✨ Contribuições
 
