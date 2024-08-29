@@ -1,6 +1,6 @@
 # Estrutura de Dados
 
-Bem-vindo ao repositório de **exercícios** e **conteúdos** realizados durantes as aulas da disciplina de **Estrutura de Dados** do curso de **Desenvolvimento de Software Multiplataforma** da Fatec Jaú. Este repositório contém uma coleção de exercícios e algoritmos feitos em JavaScript que cobrem os principais conceitos e técnicas da disciplina.
+Bem-vindo ao repositório de **conteúdos** e **algoritmos** realizados durantes as aulas da disciplina de **Estrutura de Dados** do curso de **Desenvolvimento de Software Multiplataforma** da Fatec Jaú. Este repositório contém uma coleção de exercícios e algoritmos feitos em JavaScript que cobrem os principais conceitos e técnicas da disciplina.
 
 ## Instruções de Uso
 
@@ -10,9 +10,9 @@ Bem-vindo ao repositório de **exercícios** e **conteúdos** realizados durante
 
 2. **Selecione o exercício desejado na pasta**:
    ```bash
-   estrutura-de-dados/array-media-altura
+   estrutura-de-dados/bubble-sort
 
-3. **Abra o arquivo index.html com seu navegador**:
+3. **Abra o arquivo index.html com seu navegador ou execute o .js no console**:
    ```bash
    estrutura-de-dados/array-media-altura/index.html
 
