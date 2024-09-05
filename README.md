@@ -16,7 +16,7 @@ Bem-vindo ao repositório de **conteúdos** e **algoritmos** realizados durantes
    ```bash
    estrutura-de-dados/array-average/index.html
 
-# ✨ Contribuições
+## ✨ Contribuições
 
 Se você encontrar algum erro ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request. Suas contribuições são bem-vindas!
 
